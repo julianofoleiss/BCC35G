@@ -1,0 +1,48 @@
+arad
+bucharest
+oradea,zerind,71
+zerind,oradea,71
+oradea,sibiu,151
+sibiu,oradea,151
+zerind,arad,75
+arad,zerind,75
+arad,sibiu,140
+sibiu,arad,140
+arad,timisoara,118
+timisoara,arad,118
+timisoara,lugoj,111
+lugoj,timisoara,111
+lugoj,mehadia,70
+mehadia,lugoj,70
+mehadia,drobeta,75
+drobeta,mehadia,75
+drobeta,craiova,120
+craiova,drobeta,120
+sibiu,rimnicu vilcea,80
+rimnicu vilcea,sibiu,80
+sibiu,fagaras,99
+fagaras,sibiu,99
+rimnicu vilcea,craiova,146
+craiova,rimnicu vilcea,146
+craiova,pitesti,138
+pitesti,craiova,138
+rimnicu vilcea,pitesti,97
+pitesti,rimnicu vilcea,97
+fagaras,bucharest,211
+bucharest,fagaras,211
+pitesti,bucharest,101
+bucharest,pitesti,101
+giurgiu,bucharest,90
+bucharest,giurgiu,90
+bucharest,urziceni,85
+urziceni,bucharest,85
+urziceni,vaslui,142
+vaslui,urziceni,142
+urziceni,hirsova,98
+hirsova,urziceni,98
+hirsova,eforie,86
+eforie,hirsova,86
+vaslui,iasi,92
+iasi,vaslui,92
+neamt,iasi,87
+iasi,neamt,87
